@@ -33,6 +33,7 @@ User acquisition data was aggregated per day for each marketing campaign using t
 - Step 5: Final Dataset for Campaign Performance
 Finally, all the extracted data (marketing costs, user signups, subscription revenue, etc.) was combined into a single dataset to provide a comprehensive view of each campaign's performance, enabling the calculation of cost per conversion and overall return on investment.
 
+
 ### Key Insights
 - MRR Trends: By evaluating the Monthly Recurring Revenue generated per campaign, we identified which campaigns contributed the most to revenue over time.
 - Cost per Conversion: Calculating the cost per signup and cost per subscription allowed for a thorough analysis of campaign efficiency, aiding in future marketing budget decisions.
