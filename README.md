@@ -31,8 +31,8 @@ A cohort analysis grouped users by their signup date and campaign, which allowed
 - Step 4: Aggregating User Signups
 User acquisition data was aggregated per day for each marketing campaign using the USERS table to count the number of signups.
 - Step 5: Final Dataset for Campaign Performance
-Finally, all the extracted data (marketing costs, user signups, subscription revenue, etc.) was combined into a single dataset to provide a comprehensive view of each campaign's performance, enabling the calculation of cost per conversion and overall return on investment.
-
+Finally, all the extracted data (marketing costs, user signups, subscription revenue, etc.) was combined into a single dataset to provide a comprehensive view of each campaign's performance, enabling the calculation of cost per conversion and overall return on investment. This is a snapshot of the data below:
+  ![Final Data](https://github.com/Feyisayo0g/-SQL---Pep-Chat-Marketing-Performance-MRR-Calculation/blob/main/pepchat%20final%20table.png)
 
 ### Key Insights
 - MRR Trends: By evaluating the Monthly Recurring Revenue generated per campaign, we identified which campaigns contributed the most to revenue over time.
